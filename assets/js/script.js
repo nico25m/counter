@@ -35,7 +35,7 @@ divCounter.append(divMeno, divNumero, divPiu);
 
 buttonMeno.addEventListener("click", () => {
   if (numero.value === "0") {
-    alert("Lo 0 è il minimo!");
+    alert("0 è il minimo!");
   } else {
     numero.value--;
   }
