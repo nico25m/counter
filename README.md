@@ -59,3 +59,5 @@ Nicolò
 💼 LinkedIn: https://linkedin.com/in/nicolò-melzi
 
 🌐 Link al Progetto: https://nico25m.github.io/counter/
+
+🌐 Link al Progetto web hosted: https://nico-counterjs.netlify.app
