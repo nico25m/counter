@@ -1,5 +1,7 @@
 #  Counter JS
 
+![Anteprima del progetto](assets/images/screen-counterjs.png)
+
 Un semplice progetto che chiedeva la realizzazione di **counter interattivo**, per verificare le skill ottenute su javascript.
 
 ---
@@ -15,9 +17,9 @@ Un semplice progetto che chiedeva la realizzazione di **counter interattivo**, p
 
 ##  Tecnologie utilizzate
 
-| **HTML** 
-| **CSS** 
-| **JavaScript** 
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
 
 ---
 
@@ -52,8 +54,8 @@ Nicolò
 
 📧 Email: nicomelzi05@gmail.com
 
-🌐 GitHub: github.com/nico25m
+🌐 GitHub: https://github.com/nico25m
 
-💼 LinkedIn: linkedin.com/in/nicolò-melzi
+💼 LinkedIn: https://linkedin.com/in/nicolò-melzi
 
-🌐 Link al Progetto: nico25m.github.io/counter
+🌐 Link al Progetto: https://nico25m.github.io/counter/
