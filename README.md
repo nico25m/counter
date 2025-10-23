@@ -1,6 +1,6 @@
 #  Counter JS
 
-![Anteprima del progetto](assets/images/screen-counterjs.png)
+![Anteprima del progetto](./assets/images/screen-counterjs.png)
 
 Un semplice progetto che chiedeva la realizzazione di **counter interattivo**, per verificare le skill ottenute su javascript.
 
