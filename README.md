@@ -15,7 +15,7 @@ Un semplice progetto che chiedeva la realizzazione di **counter interattivo**, p
 
 ---
 
-##  Tecnologie utilizzate
+##  Linguaggi usati
 
 - **HTML** 
 - **CSS** 
