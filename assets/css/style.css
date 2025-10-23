@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   font-family: "Funnel Suns", sans-serif;
+  touch-action: manipulation;
 }
 
 body {
@@ -113,27 +114,6 @@ h1 {
   .reset-btn {
   margin-top: 20px;
   margin-bottom: -60px; 
-  font-size: 16px;
-}
-
-.piu-btn,
-.meno-btn {
-  font-size: 30px;
-}
-
-.numero {
-  color: black;
-}
-
-.input-numero {
-  background-color: rgb(255, 255, 255);
-  border: 2px solid black;
-  width: 60px;
-  height: 50px;
-  color: black;
-  text-align: center;
-  font-size: 30px;
-  border-radius: 10px;
 }
 
 }
