@@ -60,4 +60,4 @@ Nicolò
 
 🌐 Link al Progetto: https://nico25m.github.io/counter/
 
-🌐 Link al Progetto web hosted: https://nico-counterjs.netlify.app
+🌐 Link al Progetto webhosted: https://nico-counterjs.netlify.app
